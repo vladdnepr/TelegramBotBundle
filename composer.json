@@ -30,7 +30,7 @@
         "symfony/console": "^3.4 || ^4.0",
         "symfony/event-dispatcher": "^3.4 || ^4.0",
         "symfony/framework-bundle": "^3.4 || ^4.0",
-        "telegram-bot/api": "dev-master"
+        "telegram-bot/api": "dev-master#7f00832"
     },
     "repositories": [
         {
